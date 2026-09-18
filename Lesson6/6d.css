@@ -1,0 +1,22 @@
+.p1
+{
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size:32px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.p2
+{
+	font-family: montserrat;
+	font-size: 18px;
+	font-weight: 2x;
+	margin-top: 2px;
+	text-align: center;
+}
+
+.s1
+{
+	text-decoration: underline;
+}
